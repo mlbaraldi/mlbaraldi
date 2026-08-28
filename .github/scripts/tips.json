@@ -1,0 +1,22 @@
+[
+  "Comente o \"porquê\", não só o \"o quê\": daqui a 6 meses só o motivo importa.",
+  "Microsserviços sem contrato de API bem definido viram microrrenegociações.",
+  "Em fila assíncrona, idempotência não é opcional: é o preço de não duplicar.",
+  "gRPC brilha em interno de baixa latência; REST ainda é rei para integração externa.",
+  "Observabilidade antes de escalar: você só otimiza o que consegue medir.",
+  "Contexto de LLM é orçamento: delimite, cacheie e reutilize antes de pedir mais tokens.",
+  "Plugins (MCP) viram mãos do agente — projetos eles como interfaces estáveis, não gambiarras.",
+  "Skills versionadas valem mais que prompts soltos: dá pra revisar e testar.",
+  "Valide XML fiscal contra o XSD oficial antes de confiar em qualquer regra de negócio.",
+  "Taxas de erro baixas escondem custo alto quando o volume é grande; olhe o absoluto.",
+  "Teste o caminho infeliz primeiro: o sucesso todo mundo esquece de quebrar.",
+  "Deploy é um detalhe de dados, não de código: migração e rollback andam juntos.",
+  "TypeScript bem tipado é documentação que o compilador obriga você a manter.",
+  "System design é sobre fronteiras: o que está dentro e o que vaza para fora.",
+  "Homelab é laboratório: erra em casa, acerta em produção por custo menor.",
+  "Próximo passo de um agente: dê contexto sob demanda, não tudo de uma vez.",
+  "CD confiável nasce de build reprodutível e artefato imutável, não de sorte.",
+  "Ler o diff do colega é code review; só apertar approve é crossing fingers.",
+  "Performance é arquitetura, não tuning de última hora: decida cedo o que é quente.",
+  "Aprender ferramenta nova é mais barato que fingir que a atual faz tudo."
+]
