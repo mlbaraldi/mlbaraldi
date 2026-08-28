@@ -21,7 +21,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_username: ${{ github.repository_owner }}
-          color: multi
+          color: green
           ship: rocket
 
       - name: Push to output branch

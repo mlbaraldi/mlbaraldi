@@ -27,48 +27,49 @@
 
 ---
 
-## 📊 Skill Tree (XP)
+## 🛠️ Stack
 
-<pre>
-TypeScript        ████████░░  80%
-Go                ███░░░░░░░  30%
-Java              ███░░░░░░░  30%
-React / Next.js   ██████░░░░  60%
-Node / NestJS     ███████░░░  70%
-gRPC / GraphQL    ████░░░░░░  40%
-AWS / Kubernetes   ████░░░░░░  45%
-AI Orchestration  ████████░░  85%
-</pre>
+**Linguagens**
+![TypeScript](https://img.shields.io/badge/TypeScript-6FAE7E?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-6FAE7E?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-6FAE7E?style=for-the-badge&logo=java&logoColor=white)
 
----
+**Frontend**
+![React](https://img.shields.io/badge/React-6FAE7E?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-6FAE7E?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-6FAE7E?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## 📈 Stats
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-c9a227?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-c9a227?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-c9a227?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlbaraldi&show_icons=true&bg_color=0b0e14&title_color=6fae7e&text_color=c9d1d9&icon_color=c9a227&hide_border=true&include_all_commits=true" alt="github stats" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=mlbaraldi&bg_color=0b0e14&title_color=6fae7e&stroke=6fae7e&text_color=c9d1d9&hide_border=true" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlbaraldi&layout=compact&bg_color=0b0e14&title_color=6fae7e&text_color=c9d1d9&hide_border=true" alt="top languages" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlbaraldi&bg_color=0b0e14&color=6fae7e&line=6fae7e&point=c9a227&area=true&hide_border=true" alt="activity graph" />
-</div>
+**APIs**
+![REST](https://img.shields.io/badge/REST-c9a227?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-c9a227?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-c9a227?style=for-the-badge)
+
+**Cloud / DevOps**
+![AWS](https://img.shields.io/badge/AWS-6FAE7E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-6FAE7E?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-6FAE7E?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-6FAE7E?style=for-the-badge&logo=argo&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-6FAE7E?style=for-the-badge)
+
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6FAE7E?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6FAE7E?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-6FAE7E?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
 ## 👾 Contribution Grid — INVADERS
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mlbaraldi/mlbaraldi/output/git-invader-multi-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mlbaraldi/mlbaraldi/output/git-invader-multi-light.svg" />
-  <img alt="git-invaders" src="https://raw.githubusercontent.com/mlbaraldi/mlbaraldi/output/git-invader-multi-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mlbaraldi/mlbaraldi/output/git-invader-green-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mlbaraldi/mlbaraldi/output/git-invader-green-light.svg" />
+  <img alt="git-invaders" src="https://raw.githubusercontent.com/mlbaraldi/mlbaraldi/output/git-invader-green-dark.svg" />
 </picture>
-
----
-
-## 📓 Daily Log
-
-<!-- DAILY-TIP:START -->
-> 💡 Comente o "porquê", não só o "o quê": daqui a 6 meses só o motivo importa.
-<!-- DAILY-TIP:END -->
 
 ---
 
