@@ -1,8 +1,8 @@
-name: git-invaders
+name: snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -16,16 +16,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate SVG
-        uses: VARDHAMANPATEL23/git-invader@v1.0.0
+      - uses: Platane/snk/svg-only@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_username: ${{ github.repository_owner }}
-          color: green
-          ship: rocket
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
